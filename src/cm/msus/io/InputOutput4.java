@@ -76,8 +76,8 @@ class Game implements Serializable {
 		
 		return "Nom du Jeu : " + this.nom +
 				"\nStyle du jeu  : "+ this.style +
-				"\nPrix du Jeu : " + this.prix +
-				"\nNotice du Jeu : "+ this.notice;
+				"\nPrix du Jeu : " + this.prix;
+				
 	}
 }
 
